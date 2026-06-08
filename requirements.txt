@@ -1,0 +1,7 @@
+numpy
+matplotlib
+pandas
+Pillow
+jupyter
+ipykernel
+nbformat
